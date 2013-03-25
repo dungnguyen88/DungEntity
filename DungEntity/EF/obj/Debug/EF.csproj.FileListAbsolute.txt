@@ -1,0 +1,12 @@
+D:\PROJECTS\DungEntity\EF\bin\Debug\EF.dll
+D:\PROJECTS\DungEntity\EF\bin\Debug\EF.pdb
+D:\PROJECTS\DungEntity\EF\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\DungEntity\EF\obj\Debug\EF.dll
+D:\PROJECTS\DungEntity\EF\obj\Debug\EF.pdb
+D:\PROJECTS\DungEntity\EF\bin\Debug\EF.dll.config
+D:\PROJECTS\DungEntity\EF\bin\Debug\Domain.dll
+D:\PROJECTS\DungEntity\EF\bin\Debug\EntityFramework.dll
+D:\PROJECTS\DungEntity\EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJECTS\DungEntity\EF\bin\Debug\Domain.pdb
+D:\PROJECTS\DungEntity\EF\bin\Debug\EntityFramework.xml
+D:\PROJECTS\DungEntity\EF\bin\Debug\EntityFramework.SqlServer.xml
